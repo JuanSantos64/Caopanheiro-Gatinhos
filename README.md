@@ -1,4 +1,5 @@
-![Logo](https://raw.githubusercontent.com/JuanSantos64/Caopanheiro-Gatinhos/refs/heads/main/components/images/Logo.png)
+<p align="center"><img src="https://raw.githubusercontent.com/JuanSantos64/Caopanheiro-Gatinhos/refs/heads/main/components/images/Logo.png" /></p>
+
 # Cãopanheiros & Gatinhos
 #### PT-BR
 
