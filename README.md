@@ -1,11 +1,45 @@
-# Sample Snack app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+# Cãopanheiros & Gatinhos
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+#### PT-BR
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+### A Ideia
+Este aplicativo serve para conectar adotantes com seus fututos pets
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+### A Problemática
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+A falta de aplicativos confiáveis e focados em adoção para pets.
+
+### O que é possível fazer?
+- Conversar com o dono do pet para mais informações
+- Agendar visitas ao seu novo pet
+- Visualizar dezenas de pets próximos a você
+
+### Diferencial
+
+- Chat entre Donos e adotantes
+- Design feito pensado em UX|UI
+- Agendamento de visita
+
+#### EN-US
+### The Idea
+This app is designed to connect adopters with their futures pets
+
+### The Problem
+The lack of reliable apps focused on pet adoption.
+
+### What can you do?
+- Chat with the pet owner for more information
+- Schedule visits to meet your new pet
+- Browse dozens of pets near you
+###Unique Features
+- Chat between owners and adopters
+- UX/UI-focused design
+- Visit scheduling
+
+Made by:
+- Daniel Branco - [Follow him on Linkedin](https://www.linkedin.com/in/daniel-branco-20035a281/)
+- Josemir Fernandes - [Follow him on Linkedin](https://www.linkedin.com/in/josemir-fernandes-54858a260/)
+- José Lucas - [Follow him on Linkedin](https://www.linkedin.com/in/jose-lucas-7652252b6/)
+- Juan Santos - [Follow him on Linkedin](https://www.linkedin.com/in/juan-santos-28a001288/)
+- Layla Tenório- [Follow her on Linkedin](https://www.linkedin.com/in/layla-tenorio/)
