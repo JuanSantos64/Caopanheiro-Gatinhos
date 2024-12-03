@@ -1,10 +1,9 @@
-
+![Logo](https://raw.githubusercontent.com/JuanSantos64/Caopanheiro-Gatinhos/refs/heads/main/components/images/Logo.png)
 # Cãopanheiros & Gatinhos
-
 #### PT-BR
 
 ### A Ideia
-Este aplicativo serve para conectar adotantes com seus fututos pets
+Este aplicativo serve para conectar adotantes com seus futuros pets!
 
 ### A Problemática
 
@@ -81,3 +80,4 @@ Our prototype contains:
 - José Lucas - [Follow him on Linkedin](https://www.linkedin.com/in/jose-lucas-7652252b6/)
 - Juan Santos - [Follow him on Linkedin](https://www.linkedin.com/in/juan-santos-28a001288/)
 - Layla Tenório- [Follow her on Linkedin](https://www.linkedin.com/in/layla-tenorio/)
+
